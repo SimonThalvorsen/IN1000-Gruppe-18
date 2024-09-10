@@ -19,7 +19,8 @@ Passkontrollen på Oslo Airport Gardermoen ønsker å ta vare på informasjon om
 
 # Oppgave 4
 
-## Merk at denne oppgaven kan bli ganske krevende, og kan minne litt om en typisk oppgave som kan komme på eksamen, ikke mist motet om du ikke får denne til akkurat nå.
+*Merk at denne oppgaven kan fort bli litt krevende, og kan minne litt om en typisk eksamensoppgave, ikke mist motet om du ikke får denne til akkurat nå.*
+***NOTE:jeg vet ingenting om eksamen i år så ta utsagnet over med en klype salt, så ikke bruk dette som en "sjekk" på om du klarer eksamen osv.***
 
 Utvid programmet dere lagde forrige uke til å håndtere flere konti(kanskje også flere brukere, dersom du ønsker en utfordring).
 Hva skal lagres for hver konto og hvordan skal denne informasjonen lagres?
