@@ -62,8 +62,11 @@ artister = ["Taylor Swift", "Knocked Loose", "Bruno Mars"].
 ```
 
 Print ut alle elementene i lista med en for-løkke ved:
+
 A) Å løpe (iterere) gjennom lista uten å bruke listeeindekser. Beskriv all koden og hva som endrer seg underveis i kjøringen.
+
 B) Å løpe (iterere) gjennom lista ved å bruke listeeindekser. Beskriv all koden og hva som endrer seg underveis i kjøringen.
+
 C) Sammenlign de to variantene av for-løkke i a og b. Hva oppdager dere?
 
 # Oppgave 7
@@ -75,6 +78,7 @@ tegnliste = ["h", "e", "i", ",", " ", "d", "u", "!"]
 ```
 
 A) Bruk en for-løkke og lag en setning med tegnene. Dere kan anta at tegnene står i riktig rekkefølge i tegnliste. Skriv ut setningen i terminalen til slutt.
+
 B) Lag en mengde av tegnliste. Gjør så det samme som dere gjorde i a), men ved å bruke mengden i stedet for. Hva oppdager dere, og hvorfor er det slik?
 
 # Oppgave 8
@@ -82,4 +86,5 @@ B) Lag en mengde av tegnliste. Gjør så det samme som dere gjorde i a), men ved
 Skriv et program med en prosedyre, print_hei. Prosedyren skal skrive ut teksten “Hei” til terminalen. Bruk så en løkke, som kaller prosedyren print_hei. Når løkken er ferdig, skal “Hei” ha blitt skrevet ut fem ganger.
 
 A) Skriv prosedyren print_hei. Løs så oppgaven ved hjelp av en while-løkke, deretter en for-løkke.
+
 B) Hvilken av de to løkkene anser dere som best egnet til å løse oppgaven? Diskutér fordeler og ulemper.
