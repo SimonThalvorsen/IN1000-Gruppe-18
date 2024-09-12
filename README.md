@@ -5,7 +5,7 @@
 | Uke 01 | [Tirsdag - Uke 01](./uke01/tirsdag/)     | [Torsdag - Uke 01](./uke01/torsdag/)    |
 | Uke 02 | [Tirsdag - Uke 02](./uke02/tirsdag/)     | [Torsdag - Uke 02](./uke02/torsdag/)    |
 | Uke 03 | [Tirsdag - Uke 03](./uke03/tirsdag/)     | [Torsdag - Uke 03](./uke03/torsdag/)    |
-| Uke 03 | [Kommer](./uke04/tirsdag/)               | [Torsdag - Uke 04](./uke04/torsdag/)    |
+| Uke 04 | [Kommer](./uke04/tirsdag/)               | [Torsdag - Uke 04](./uke04/torsdag/)    |
 
 ---
 
