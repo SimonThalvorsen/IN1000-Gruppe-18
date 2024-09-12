@@ -46,8 +46,8 @@ tekst = ["hadet", "på", "badet", "din", "gamle", "sjokolade"]
 indeks = 0
 
 while indeks < len(tekst):
-print(tekst[indeks])
-indeks += 2
+  print(tekst[indeks])
+  indeks += 2
 ```
 
 B) Hvorfor oppstår det feil hvis dere bytter ut < med <= i løkkebtingelsen over?
