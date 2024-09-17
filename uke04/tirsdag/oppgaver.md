@@ -14,7 +14,7 @@ Forsøk å gjøre dette på to ulike måter.
 
 Utvid programmet til å ta inn x _tilfeldige_ tall, programmet skal fortsatt skrive ut kun partall.
 
-# Oppgave 3
+# Oppgave 3 (Tidligere eksamensoppgave)
 
 Dere skal fordele gjester langs den ene siden av et langt bord. På forhånd har dere delt gjestene inn i to grupper - introverte og ekstroverte - og ønsker å fordele disse på annenhver plass langs bordet. Det er alltid like mange introverte og ekstroverte gjester, men totalt antall gjester er vilkårlig (kan være hva som helst). Den endelige bordplasseringen med annenhver introverte og ekstroverte gjest er en liste.
 
