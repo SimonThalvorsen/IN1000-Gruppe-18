@@ -26,5 +26,3 @@
 #
 # C) Lag en funksjon som finner og returnerer den laveste verdien i lista. Hint: her kan 
 # det være lurt å ha en variabel som mellomlagrer den til enhver tid minste verdien. 
-
-
