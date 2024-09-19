@@ -1,11 +1,11 @@
 # Oppgave 5
 # Anta at du har filen “historiske_personer.txt”.
 #
-# Les inn alle linjene og lagre dem i en liste. Første historiske person (linje) i filen skal ligge først i lista, o.s.v. Tips: husk å åpne og lukke filen.
+# A) Les inn alle linjene og lagre dem i en liste. Første historiske person (linje) i filen skal ligge først i lista, o.s.v. Tips: husk å åpne og lukke filen.
 #
-# Opprett filen “historiske_personer.txt”. Fyll den med noen historiske personer ved å skrive direkte i fila. Legg fila i samme mappe som .py-filen din.
+# B) Opprett filen “historiske_personer.txt”. Fyll den med noen historiske personer ved å skrive direkte i fila. Legg fila i samme mappe som .py-filen din.
 #
-# Test at programmet fra a) fungerer ved å bruke filen du opprettet i b).
+# C) Test at programmet fra a) fungerer ved å bruke filen du opprettet i b).
 #
 #
 #
