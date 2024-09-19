@@ -24,3 +24,4 @@ for i in range(12):
             fil.write(f"{antall};")
     if i != 11:
         fil.write("\n")
+fil.close()
