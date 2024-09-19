@@ -43,6 +43,7 @@ def lag_tekst_fil(filnavn, ordbok):
 
         # print(key)
         # print(ordbok.get(key))
+    fil.close()
 
 lag_tekst_fil(filnavn, ordbok)
 
