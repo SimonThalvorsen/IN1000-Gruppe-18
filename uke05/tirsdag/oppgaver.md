@@ -30,10 +30,12 @@ Altså skal kallet heie({"Rosenborg":4, "Odd":1, "Molde":3, "Brann":2}) returner
 
 # Oppgave 4
 
-Tenk at dere har fått utdelt en fil med gruppeoppmøte i IN1000. Filnavn: oppmøte*in1000.txt. Skriv et program som ved hjelp av en funksjon leser inn filen og skriver ut gruppene som har hatt 20 eller flere oppmøtte studenter i uke 11. Funksjonen har filnavn som parameter.
-Første linje i filen består av gruppenummer: gruppe_1, gruppe_2, gruppe_3, o.s.v., til og med gruppe_8. Gruppene er atskilte med ; (semikolon). På linjene nedenfor står antall oppmøtte i hver gruppe per uke. Antallene er atskilte med ; (semikolon). Andre linje i fila har oppmøteantall for uke 1, tredje linje i fila har oppmøte for uke 2, o.s.v., til og med uke 12.
-Her er et eksempel på hvordan de to første linjene i oppmøte_in1000.txt kan se ut:
-gruppe_1; gruppe_2; gruppe_3; gruppe* 4; gruppe_5; gruppe_6; gruppe_7; gruppe_8
+Tenk at dere har fått utdelt en fil med gruppeoppmøte i IN1000. Filnavn: oppmøte\_in1000.txt. Skriv et program som ved hjelp av en funksjon leser inn filen og skriver ut gruppene som har hatt 20 eller flere oppmøtte studenter i uke 11. Funksjonen har filnavn som parameter.
+Første linje i filen består av gruppenummer: gruppe\_1, gruppe\_2, gruppe\_3, o.s.v., til og med gruppe\_8. Gruppene er atskilte med ; (semikolon). På linjene nedenfor står antall oppmøtte i hver gruppe per uke. Antallene er atskilte med ; (semikolon). Andre linje i fila har oppmøteantall for uke 1, tredje linje i fila har oppmøte for uke 2, o.s.v., til og med uke 12.
+Her er et eksempel på hvordan de to første linjene i oppmøte\_in1000.txt kan se ut:
+
+gruppe\_1; gruppe\_2; gruppe\_3; gruppe\_4; gruppe\_5; gruppe\_6; gruppe\_7; gruppe\_8
+
 10; 19; 25; 18; 23; 11; 13; 17
 
 Forsøk først å lage et python-program som generer denne listen for deg (slik at du ikke manuelt må skrive inn hver linje). Det ligger et ferdig program [her](./generer_oppmotefil.py) som gjør dette for deg.
