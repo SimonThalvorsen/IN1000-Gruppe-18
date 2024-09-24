@@ -22,3 +22,5 @@ for i in range(12):
         else:
             fil.write(f"{antall};")
     fil.write("\n")
+
+fil.close()
