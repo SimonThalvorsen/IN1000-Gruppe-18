@@ -7,7 +7,6 @@ for i in range(8):
     # Siste gruppe skal ikke ha semikolon bak seg
     if i == 7:
         fil.write("Gruppe_" + str(i+1))
-        # Må skrive newline på slutten for å få alt resten på ny linje
         fil.write("\n")
     else:
         fil.write("Gruppe_" + str(i+1) + ";")
@@ -22,6 +21,4 @@ for i in range(12):
             fil.write(f"{antall}")
         else:
             fil.write(f"{antall};")
-    if i != 11:
-        fil.write("\n")
-fil.close()
+    fil.write("\n")
