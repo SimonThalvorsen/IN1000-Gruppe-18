@@ -118,7 +118,7 @@ print( kalkuler(2) + kalkuler(4) )""")
 opg1e()
 print()
 
-## NOTE: De har ikke lært dette enda, men kan ta den med bare for å vise veldig kjapt hva de skal lære neste uke
+## NOTE: Dere har ikke lært dette enda, men tar den med bare for å vise veldig kjapt hva dere skal lære neste uke
 def opg1f():
     print("""
 class Tall:
