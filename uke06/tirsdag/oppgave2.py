@@ -4,6 +4,6 @@ def forkort_lagliste(lagliste):
 
 def hovedprogram():
     lagliste = ["Molde", "Brann", "Molde"]
-    print(forkort_lagliste(lagliste))
+    print(lagliste, forkort_lagliste(lagliste))
 
 hovedprogram()

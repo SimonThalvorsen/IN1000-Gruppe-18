@@ -23,7 +23,7 @@ def hovedprogram():
     streng = "ha det fint"
     vokaler = ['a', 'e', 'i', 'o', 'u', 'y']
 
-    print(fjern_vokeler(streng, vokaler))
-    print(fjern_vokeler2(streng, vokaler))
+    print(streng + "->", fjern_vokeler(streng, vokaler))
+    print(streng + "->", fjern_vokeler2(streng, vokaler))
 
 hovedprogram()

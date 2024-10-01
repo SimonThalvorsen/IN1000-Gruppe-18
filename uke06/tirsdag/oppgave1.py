@@ -11,8 +11,8 @@ def tell_grade2r(fag, bsc, msc):
 
 def hovedprogram():
     x = tell_grader("informatikk", "informatikk", "informatikk")
-    print(x)
+    print("informatikk, informatikk, informatikk  ", x)
     x = tell_grader("historie", "informatikk", "informatikk")
-    print(x)
+    print("historie, informatikk, informatikk", x)
 
 hovedprogram()

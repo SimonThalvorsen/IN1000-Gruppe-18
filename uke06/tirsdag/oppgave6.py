@@ -30,11 +30,11 @@ def hovedprogram():
         else:
             usortert[str(u_idx)+"s"] = talliste
             u_idx += 1
-    print("sorterte_liste:")
+    print("sorterte_lister:")
     for value in sortert.values():
         print(value)
     
-    print("\nusorterte_liste:")
+    print("\nusorterte_lister:")
     for value in usortert.values():
         print(value)
 
