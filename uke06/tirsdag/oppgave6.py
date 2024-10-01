@@ -1,3 +1,5 @@
+import random
+
 def er_sortert(talliste: list[int]):
     forrige = talliste[0]
     for tall in talliste:
@@ -12,7 +14,12 @@ def hovedprogram():
 
     s_idx = 1
     u_idx = 1
-    talllister = []
+    talllister = [
+    sorted([random.randint(1, 50) for _ in range(random.randint(5, 15))]) if random.choice([0, 1])
+    else [random.randint(1, 50) for _ in range(random.randint(5, 15))]
+    for _ in range(random.randint(1, 15))
+    ]
+
     for talliste in talllister:
         if er_sortert(talliste):
             sortert[str(s_idx)+"s"] = talliste
@@ -20,3 +27,12 @@ def hovedprogram():
         else:
             usortert[str(u_idx)+"s"] = talliste
             u_idx += 1
+    print("sorterte_liste:")
+    for value in sortert.values():
+        print(value)
+    
+    print("\nusorterte_liste:")
+    for value in usortert.values():
+        print(value)
+
+hovedprogram()
