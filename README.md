@@ -8,6 +8,7 @@
 | Uke 04 | [Tirsdag - Uke 04](./uke04/tirsdag/)     | [Torsdag - Uke 04](./uke04/torsdag/)    |
 | Uke 05 | [Tirsdag - Uke 05](./uke05/tirsdag/)     | [Torsdag - Uke 05](./uke05/torsdag/)    |
 | Uke 06 | [Tirsdag - Uke 06](./uke06/tirsdag/)     | [Torsdag - Uke 06](./uke06/torsdag/)    |
+| Uke 07 | [Tirsdag - Uke 07](./uke07/tirsdag/)     | [Torsdag - Uke 07](./uke07/torsdag/)    |
 
 ---
 
