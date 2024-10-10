@@ -1,0 +1,10 @@
+Agatha Christie;Murder on the Orient Express;9780062693662
+J.K. Rowling;Harry Potter and the Philosopher's Stone;9780747532699
+J.R.R. Tolkien;The Hobbit;9780261103283
+George Orwell;1984;9780451524935
+Harper Lee;To Kill a Mockingbird;9780061120084
+. Scott Fitzgerald;The Great Gatsby;9780743273565
+Mary Shelley;Frankenstein;9780486282114
+Jane Austen;Pride and Prejudice;9780141040349
+Markus Zusak;The Book Thief;9780375842207
+Gabriel Garcia Marquez;One Hundred Years of Solitude;9780060883287
