@@ -15,6 +15,7 @@ Her er et eksempel på hvordan de to første linjene i oppmøte_in1000.txt kan s
 
 gruppe_1; gruppe_2; gruppe_3; gruppe\* 4; gruppe_5; gruppe_6; gruppe_7; gruppe_8
 10; 19; 25; 18; 23; 11; 13; 17
+[Eksempelfil + koden som genererer en slik fil finnes her](https://github.com/SimonThalvorsen/IN1000-Gruppe-18/tree/main/uke05/tirsdag)
 
 Lag et hovedprogram som oppretter et gruppeobjekt for hver av de åtte gruppene og legger dem inn i ei liste. I hvert objekt skal gruppenummer og totalt oppmøte (alle ukene summert) lagres. Til slutt skal det skrives ut en ryddig oversikt over gruppenummer og totalt oppmøte for hver av gruppene, i tillegg til totalt oppmøte for alle gruppene samlet. Husk innkapsling. Dere trenger altså metoder for å hente og endre data i objektene underveis i programmet.
 
