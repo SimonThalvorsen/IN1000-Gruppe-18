@@ -8,7 +8,7 @@
 | Uke 04 | [Tirsdag - Uke 04](./uke04/tirsdag/)     | [Torsdag - Uke 04](./uke04/torsdag/)    |
 | Uke 05 | [Tirsdag - Uke 05](./uke05/tirsdag/)     | [Torsdag - Uke 05](./uke05/torsdag/)    |
 | Uke 06 | [Tirsdag - Uke 06](./uke06/tirsdag/)     | [Torsdag - Uke 06](./uke06/torsdag/)    |
-| Uke 07 | [Tirsdag - Uke 07](./uke06/tirsdag/)     | [Torsdag - Uke 07](./uke07/torsdag/)    |
+| Uke 07 | -- Ingen nye oppgaver --                 | [Torsdag - Uke 07](./uke07/torsdag/)    |
 | Uke 08 | [Tirsdag - Uke 08](./uke08/tirsdag/)     | [Torsdag - Uke 08](./uke08/torsdag/)    |
 | Uke 09 | [Tirsdag - Uke 09](./uke09/tirsdag/)     | [Torsdag - Uke 09](./uke09/torsdag/)    |
 | Uke 10 | -- Ingen nye oppgaver --                 | [Torsdag - Uke 10](./uke10/torsdag/)    |
