@@ -12,7 +12,7 @@
 | Uke 08 | [Tirsdag - Uke 08](./uke08/tirsdag/)     | [Torsdag - Uke 08](./uke08/torsdag/)    |
 | Uke 09 | [Tirsdag - Uke 09](./uke09/tirsdag/)     | [Torsdag - Uke 09](./uke09/torsdag/)    |
 | Uke 10 | -- Ingen nye oppgaver --                 | [Torsdag - Uke 10](./uke10/torsdag/)    |
-| Uke 11 | -- Ingen nye oppgaver --                 | [Torsdag - Uke 11](./uke11/torsdag/)    |
+| Uke 11 | Jobbe videre med eksamen 22 (prøveeksamen 23)                | [Torsdag - Uke 11](./uke11/torsdag/)    |
 
 ---
 
